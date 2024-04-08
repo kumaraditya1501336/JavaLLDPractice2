@@ -1,2 +1,8 @@
-package constructorchaining;public class B {
+package constructorchaining;
+
+public class B extends A {
+    public B () {
+//        super();
+        System.out.println("In B");
+    }
 }

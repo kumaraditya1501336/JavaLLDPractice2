@@ -1,2 +1,4 @@
-package InterfacePractice;public interface I1 {
+package InterfacePractice;
+
+public interface I1 {
 }

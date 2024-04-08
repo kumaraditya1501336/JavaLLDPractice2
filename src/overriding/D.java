@@ -1,2 +1,5 @@
-package overriding;public class D {
+package overriding;
+
+public class D extends C {
+
 }
