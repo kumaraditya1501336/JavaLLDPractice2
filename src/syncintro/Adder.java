@@ -9,6 +9,6 @@ public class Adder implements Runnable {
 
     @Override
     public void run () {
-        for (int i = 1; )
+        for (int i = 1; ;) {}
     }
 }

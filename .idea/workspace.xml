@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3aaa188-1c8e-43a4-ad1a-c87bfae4bbfb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/executorintro/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/executorintro/NumberPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mergesort/Sorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/syncintro/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/syncintro/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/syncintro/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/syncintro/Subtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mergesort/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/executorintro/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/executorintro/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mergesort/Sorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mergesort/Sorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syncintro/Adder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/syncintro/Adder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syncintro/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/syncintro/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/syncintro/Subtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/syncintro/Subtractor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
       <recent name="executorintro" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.mergesort.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="executorintro.Client" />
       <module name="JavaLLDPractice2" />
@@ -91,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="overriding.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="overriding.Client" />
+    <configuration name="mergesort.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mergesort.Client" />
       <module name="JavaLLDPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="overriding.*" />
+          <option name="PATTERN" value="mergesort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mergesort.Client" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.printnumber1to100.Client" />
         <item itemvalue="Application.helloworldthread.Client" />
         <item itemvalue="Application.introtothreads.Client" />
-        <item itemvalue="Application.overriding.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -143,8 +142,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/executorintro/Client.java</url>
-          <line>11</line>
+          <line>15</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mergesort/Sorter.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

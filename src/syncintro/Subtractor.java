@@ -7,4 +7,9 @@ public class Subtractor implements Runnable {
     public Subtractor (Count count) {
 
     }
+
+    @Override
+    public void run() {
+
+    }
 }
