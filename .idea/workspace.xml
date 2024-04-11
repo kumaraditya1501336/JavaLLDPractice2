@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3aaa188-1c8e-43a4-ad1a-c87bfae4bbfb" name="Changes" comment="" />
+    <list default="true" id="c3aaa188-1c8e-43a4-ad1a-c87bfae4bbfb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/executorintro/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/executorintro/NumberPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mergesort/Sorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/syncintro/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/syncintro/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/syncintro/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/syncintro/Subtractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,13 +46,18 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.printnumber1to100.Client">
-    <configuration name="constructorchaining.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructorchaining.Client" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="executorintro" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="executorintro.Client" />
       <module name="JavaLLDPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="constructorchaining.*" />
+          <option name="PATTERN" value="executorintro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client" />
         <item itemvalue="Application.printnumber1to100.Client" />
         <item itemvalue="Application.helloworldthread.Client" />
         <item itemvalue="Application.introtothreads.Client" />
         <item itemvalue="Application.overriding.Client" />
-        <item itemvalue="Application.constructorchaining.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -123,5 +137,16 @@
       <updated>1711877772252</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/executorintro/Client.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
