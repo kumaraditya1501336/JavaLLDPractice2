@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3aaa188-1c8e-43a4-ad1a-c87bfae4bbfb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/syncintro/Adder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/syncintro/Adder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/syncintro/Subtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/syncintro/Subtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mutex/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mutex/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mutex/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mutex/Subtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/synchronizedintro/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/synchronizedintro/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/synchronizedintro/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/synchronizedintro/Subtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/synchronizedmethods/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/synchronizedmethods/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/synchronizedmethods/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/synchronizedmethods/Subtractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,44 +45,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Scaler/JavaLLDPractice2/src/synchronizedmethods"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Scaler\JavaLLDPractice2\src\synchronizedmethods" />
+      <recent name="D:\Scaler\JavaLLDPractice2\src\synchronizedintro" />
+      <recent name="D:\Scaler\JavaLLDPractice2\src\mutex" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="executorintro" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.syncintro.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="executorintro.Client" />
-      <module name="JavaLLDPractice2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="executorintro.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="helloworldthread.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helloworldthread.Client" />
-      <module name="JavaLLDPractice2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="helloworldthread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.synchronizedmethods.Client">
     <configuration name="mergesort.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mergesort.Client" />
       <module name="JavaLLDPractice2" />
@@ -85,12 +76,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printnumber1to100.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="printnumber1to100.Client" />
+    <configuration name="mutex.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mutex.Client" />
       <module name="JavaLLDPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="printnumber1to100.*" />
+          <option name="PATTERN" value="mutex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="synchronizedintro.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="synchronizedintro.Client" />
+      <module name="JavaLLDPractice2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="synchronizedintro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="synchronizedmethods.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="synchronizedmethods.Client" />
+      <module name="JavaLLDPractice2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="synchronizedmethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.synchronizedmethods.Client" />
+        <item itemvalue="Application.synchronizedintro.Client" />
+        <item itemvalue="Application.mutex.Client" />
         <item itemvalue="Application.syncintro.Client" />
         <item itemvalue="Application.mergesort.Client" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.printnumber1to100.Client" />
-        <item itemvalue="Application.helloworldthread.Client" />
       </list>
     </recent_temporary>
   </component>
