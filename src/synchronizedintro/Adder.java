@@ -1,7 +1,5 @@
 package synchronizedintro;
 
-import java.util.concurrent.locks.Lock;
-
 public class Adder implements Runnable {
     private Count count;
 

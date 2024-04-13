@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3aaa188-1c8e-43a4-ad1a-c87bfae4bbfb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mutex/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mutex/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mutex/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mutex/Subtractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/synchronizedintro/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/synchronizedintro/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/synchronizedintro/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/synchronizedintro/Subtractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/synchronizedmethods/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/synchronizedmethods/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/synchronizedmethods/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/synchronizedmethods/Subtractor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/synchronizedintro/Adder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/synchronizedintro/Adder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/synchronizedintro/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/synchronizedintro/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/synchronizedintro/Subtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/synchronizedintro/Subtractor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +35,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Scaler/JavaLLDPractice2/src/synchronizedmethods"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Scaler/JavaLLDPractice2/src/synchronizedmethods&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Scaler\JavaLLDPractice2\src\synchronizedmethods" />
@@ -160,7 +150,7 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/mergesort/Sorter.java</url>
           <line>22</line>
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

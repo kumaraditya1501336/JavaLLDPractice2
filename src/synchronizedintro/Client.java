@@ -1,8 +1,5 @@
 package synchronizedintro;
 
-import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReentrantLock;
-
 public class Client {
     public static void main(String[] args) throws InterruptedException {
         Count count = new Count();
