@@ -5,17 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3aaa188-1c8e-43a4-ad1a-c87bfae4bbfb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PCsenpahore/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PCsenpahore/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PCsenpahore/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atomicinteger/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atomicinteger/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atomicinteger/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atomicinteger/Subtractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/producerconsumerintro/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/producerconsumerintro/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/producerconsumerintro/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericsbounds/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericsbounds/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericsbounds/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericsbounds/ShapeCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericsbounds/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericsintro/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericsintro/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericsmethods/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/genericsmethods/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listgenerics/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listgenerics/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listgenerics/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listgenerics/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listgenerics/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/atomicinteger/Subtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/atomicinteger/Subtractor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,22 +52,22 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Scaler/JavaLLDPractice2/src/atomicinteger"
+    "last_opened_file_path": "D:/Scaler/oops-adv"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Scaler\JavaLLDPractice2\src\genericsmethods" />
       <recent name="D:\Scaler\JavaLLDPractice2\src\atomicinteger" />
       <recent name="D:\Scaler\JavaLLDPractice2\src\PCsenpahore" />
       <recent name="D:\Scaler\JavaLLDPractice2\src\synchronizedmethods" />
       <recent name="D:\Scaler\JavaLLDPractice2\src\synchronizedintro" />
-      <recent name="D:\Scaler\JavaLLDPractice2\src\mutex" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="executorintro" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.genericsmethods.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="producerconsumerintro.Client" />
       <module name="JavaLLDPractice2" />
@@ -76,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mutex.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mutex.Client" />
+    <configuration name="PCsenpahore.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PCsenpahore.Client" />
       <module name="JavaLLDPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mutex.*" />
+          <option name="PATTERN" value="PCsenpahore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +94,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="synchronizedintro.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="synchronizedintro.Client" />
+    <configuration name="genericsintro.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="genericsintro.Client" />
       <module name="JavaLLDPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="synchronizedintro.*" />
+          <option name="PATTERN" value="genericsintro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="genericsmethods.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="genericsmethods.Client" />
+      <module name="JavaLLDPractice2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="genericsmethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,26 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="syncintro.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="syncintro.Client" />
-      <module name="JavaLLDPractice2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="syncintro.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.genericsmethods.Client" />
+        <item itemvalue="Application.genericsintro.Client" />
+        <item itemvalue="Application.PCsenpahore.Client" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.synchronizedmethods.Client" />
-        <item itemvalue="Application.synchronizedintro.Client" />
-        <item itemvalue="Application.mutex.Client" />
-        <item itemvalue="Application.syncintro.Client" />
       </list>
     </recent_temporary>
   </component>
