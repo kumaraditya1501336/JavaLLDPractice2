@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3aaa188-1c8e-43a4-ad1a-c87bfae4bbfb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/anonclasses/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdasintro/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdasowninterface/AddOps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdasowninterface/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdasowninterface/MathOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdasowninterface/SunOps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionointro/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionointro/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionointro/UserNotFoundException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +53,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Scaler/JavaLLDPractice2"
+    "last_opened_file_path": "D:/Scaler/oops-adv"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -72,7 +68,7 @@
       <recent name="executorintro" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.streams.Client">
+  <component name="RunManager" selected="Application.exceptionointro.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="anonclasses.Client" />
       <module name="JavaLLDPractice2" />
@@ -86,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="comaprableandcomparator.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="comaprableandcomparator.Client" />
+    <configuration name="exceptionointro.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptionointro.Client" />
       <module name="JavaLLDPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="comaprableandcomparator.*" />
+          <option name="PATTERN" value="exceptionointro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exceptionointro.Client" />
         <item itemvalue="Application.streams.Client" />
         <item itemvalue="Application.lambdasowninterface.Client" />
         <item itemvalue="Application.lambdasintro.Client" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.comaprableandcomparator.Client" />
       </list>
     </recent_temporary>
   </component>
