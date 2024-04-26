@@ -8,7 +8,7 @@ public class Client {
         Thread thread = new Thread(helloWorldPrinter);
         thread.start();
 
-        System.out.println("Printing helloe world from : "
+        System.out.println("Printing helloe2 world from : "
                 + Thread.currentThread().getName());
     }
 }

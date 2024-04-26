@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3aaa188-1c8e-43a4-ad1a-c87bfae4bbfb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c3aaa188-1c8e-43a4-ad1a-c87bfae4bbfb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +63,7 @@
       <recent name="executorintro" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.overriding.Client">
+  <component name="RunManager" selected="Application.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="introtothreads.Client" />
       <module name="JavaLLDPractice2" />
@@ -133,9 +131,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.overriding.Client" />
-        <item itemvalue="Application.helloworldthread.Client" />
         <item itemvalue="Application.Client" />
+        <item itemvalue="Application.helloworldthread.Client" />
+        <item itemvalue="Application.overriding.Client" />
         <item itemvalue="Application.constructorchaining.Client" />
         <item itemvalue="Application.exceptionointro.Client" />
       </list>
