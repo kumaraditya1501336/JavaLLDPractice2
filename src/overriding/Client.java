@@ -14,5 +14,8 @@ public class Client {
         A obj = new C();
         obj.doSomething("Kumar");
 
+        A obj1 =  new D();
+        obj1.doSomething("Abra Ka Dabra");
+
     }
 }
