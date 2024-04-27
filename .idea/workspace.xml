@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3aaa188-1c8e-43a4-ad1a-c87bfae4bbfb" name="Changes" comment="" />
+    <list default="true" id="c3aaa188-1c8e-43a4-ad1a-c87bfae4bbfb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdasintro/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdasintro/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mergesort/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mergesort/Client.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,13 +67,13 @@
       <recent name="executorintro" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.lambdasintro.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introtothreads.Client" />
+      <option name="MAIN_CLASS_NAME" value="printnumber1to100.Client" />
       <module name="JavaLLDPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="introtothreads.*" />
+          <option name="PATTERN" value="printnumber1to100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="constructorchaining.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructorchaining.Client" />
+    <configuration name="PCsenpahore.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PCsenpahore.Client" />
       <module name="JavaLLDPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="constructorchaining.*" />
+          <option name="PATTERN" value="PCsenpahore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exceptionointro.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptionointro.Client" />
+    <configuration name="lambdasintro.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdasintro.Client" />
       <module name="JavaLLDPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exceptionointro.*" />
+          <option name="PATTERN" value="lambdasintro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="helloworldthread.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="helloworldthread.Client" />
+    <configuration name="producerconsumerintro.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="producerconsumerintro.Client" />
       <module name="JavaLLDPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="helloworldthread.*" />
+          <option name="PATTERN" value="producerconsumerintro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="overriding.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="overriding.Client" />
+    <configuration name="synchronizedmethods.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="synchronizedmethods.Client" />
       <module name="JavaLLDPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="overriding.*" />
+          <option name="PATTERN" value="synchronizedmethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lambdasintro.Client" />
+        <item itemvalue="Application.PCsenpahore.Client" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.helloworldthread.Client" />
-        <item itemvalue="Application.overriding.Client" />
-        <item itemvalue="Application.constructorchaining.Client" />
-        <item itemvalue="Application.exceptionointro.Client" />
+        <item itemvalue="Application.producerconsumerintro.Client" />
+        <item itemvalue="Application.synchronizedmethods.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -157,11 +161,6 @@
           <url>file://$PROJECT_DIR$/src/executorintro/Client.java</url>
           <line>15</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/mergesort/Sorter.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

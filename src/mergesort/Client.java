@@ -15,5 +15,7 @@ public class Client {
         Future<List<Integer>> sortedArr = executorService.submit(sorter);
 
         System.out.println(sortedArr.get());
+
+        executorService.shutdown();
     }
 }
