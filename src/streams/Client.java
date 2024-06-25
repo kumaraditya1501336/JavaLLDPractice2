@@ -17,7 +17,9 @@ public class Client {
 //        example6();
 //        example7();
 //        example8();
-        example9();
+//        example9();
+//        example10();
+        example11();
     }
 
     public static void example1() {
@@ -153,6 +155,29 @@ public class Client {
         }).forEach(e -> System.out.print(""));
 
         System.out.println("\n" + list);
+    }
+
+    public static void example10() {
+        //Write code to return the sum of square of even elements in a List using Streams API
+
+        List<Integer> list = List.of(1,2,3,4,5,6,7,8);
+
+        int result = list.stream()
+                .filter(e -> e % 2 == 0)
+                .reduce(0, (sum, e) -> sum + e * e);
+
+        System.out.println(result);
+    }
+
+    public static void example11() {
+        List<Integer> list = List.of(1, 2, 3, 4, 5, 6, 7, 8);
+
+        List<Integer> res = list.stream()
+                .filter(e -> e % 2 != 0)
+                .map(e -> e * e)
+                .collect(Collectors.toList());
+
+        System.out.println(res);
     }
 
     public static Function<String, Integer> test() {

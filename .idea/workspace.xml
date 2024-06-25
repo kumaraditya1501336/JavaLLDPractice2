@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3aaa188-1c8e-43a4-ad1a-c87bfae4bbfb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mergesort_2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mergesort_2/Sorter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/streams/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +47,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Scaler/JavaLLDPractice2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Scaler/oops-adv"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Scaler\JavaLLDPractice2\src\genericsmethods" />
@@ -67,7 +66,7 @@
       <recent name="executorintro" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.mergesort_2.Client">
+  <component name="RunManager" selected="Application.streams.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="printnumber1to100.Client" />
       <module name="JavaLLDPractice2" />
@@ -120,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="producerconsumerintro.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="producerconsumerintro.Client" />
+    <configuration name="streams.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.Client" />
       <module name="JavaLLDPractice2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="producerconsumerintro.*" />
+          <option name="PATTERN" value="streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.streams.Client" />
         <item itemvalue="Application.mergesort_2.Client" />
         <item itemvalue="Application.lambdasintro.Client" />
         <item itemvalue="Application.PCsenpahore.Client" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.producerconsumerintro.Client" />
       </list>
     </recent_temporary>
   </component>
