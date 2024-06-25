@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3aaa188-1c8e-43a4-ad1a-c87bfae4bbfb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/mergesort_2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mergesort_2/Sorter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambdasintro/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdasintro/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mergesort/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mergesort/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Scaler/oops-adv&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/Scaler/JavaLLDPractice2&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -67,7 +67,7 @@
       <recent name="executorintro" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lambdasintro.Client">
+  <component name="RunManager" selected="Application.mergesort_2.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="printnumber1to100.Client" />
       <module name="JavaLLDPractice2" />
@@ -107,6 +107,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="mergesort_2.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mergesort_2.Client" />
+      <module name="JavaLLDPractice2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mergesort_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="producerconsumerintro.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="producerconsumerintro.Client" />
       <module name="JavaLLDPractice2" />
@@ -120,26 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="synchronizedmethods.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="synchronizedmethods.Client" />
-      <module name="JavaLLDPractice2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="synchronizedmethods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mergesort_2.Client" />
         <item itemvalue="Application.lambdasintro.Client" />
         <item itemvalue="Application.PCsenpahore.Client" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.producerconsumerintro.Client" />
-        <item itemvalue="Application.synchronizedmethods.Client" />
       </list>
     </recent_temporary>
   </component>
